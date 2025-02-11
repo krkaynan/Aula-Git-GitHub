@@ -39,22 +39,6 @@ Durante a aula, abordaremos os seguintes tópicos:
 5. **Resolvendo Conflitos**
    - Como identificar e resolver conflitos de merge
 
-## Como Usar Este Repositório
-
-Para acompanhar a aula e praticar, siga os passos abaixo:
-
-1. **Clonar o Repositório**
-   - Para começar, clone este repositório no seu computador:
-     ```bash
-     git clone https://github.com/seu-usuario/aula-git-github.git
-     ```
-
-2. **Pratique os Comandos**
-   - Siga os exemplos e execute os comandos Git mostrados nos arquivos da aula.
-
-3. **Contribua**
-   - Se você encontrar algum erro ou quiser adicionar algo à aula, faça um **fork** deste repositório e envie um **pull request** com as suas mudanças.
-
 ## Requisitos
 
 - Ter o Git instalado no seu computador
@@ -65,10 +49,6 @@ Para acompanhar a aula e praticar, siga os passos abaixo:
 - [Documentação Oficial do Git](https://git-scm.com/doc)
 - [Introdução ao GitHub](https://guides.github.com/activities/hello-world/)
 - [GitHub Learning Lab](https://lab.github.com/)
-
-## Contribuições
-
-Este repositório é de código aberto! Se você tem sugestões ou melhorias, sinta-se à vontade para contribuir. Basta abrir um **issue** ou enviar um **pull request**.
 
 ## Licença
 
